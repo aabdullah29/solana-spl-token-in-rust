@@ -1,0 +1,12 @@
+[programs.devnet]
+mymoneydapp = "DcC6YfNLccpECodYqSYp7Yb96DZ3txPtVh58gMpvoxJE"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/abdullah/solana/anchor-task/spl-token-in-rust/learn_src/client/my-solana-wallet/wallet-GeKRGQZwgxVQ5ojsGKukSMptEhyg9r4YrKjgWPrEqScm.json"
+
+[scripts]
+test = "yarn mocha -t 1000000 tests/"

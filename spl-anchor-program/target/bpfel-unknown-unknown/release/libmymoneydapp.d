@@ -1,0 +1,1 @@
+/home/abdullah/solana/anchor-task/spl-token-in-rust/learn_src/target/bpfel-unknown-unknown/release/libmymoneydapp.rlib: /home/abdullah/solana/anchor-task/spl-token-in-rust/learn_src/programs/mymoneydapp/src/lib.rs

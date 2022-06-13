@@ -1,0 +1,10 @@
+/home/abdullah/solana/anchor-task/spl-token-in-rust/learn_src/programs/mymoneydapp/target/rls/debug/deps/without_alloc-8fe78020349e5e8e.rmeta: /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/home/abdullah/solana/anchor-task/spl-token-in-rust/learn_src/programs/mymoneydapp/target/rls/debug/deps/without_alloc-8fe78020349e5e8e.d: /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs:
+/home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs:
+/home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs:
+/home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs:
+/home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs:
+/home/abdullah/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs:

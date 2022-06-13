@@ -1,0 +1,18 @@
+[2022-05-31T14:14:47.354594984Z INFO  solana_test_validator] solana-validator 1.10.6 (src:8d5c7b7d; feat:3235626988)
+[2022-05-31T14:14:47.354660947Z INFO  solana_test_validator] Starting validator with: ArgsOs {
+        inner: [
+            "solana-test-validator",
+            "--ledger",
+            ".anchor/test-ledger",
+            "--mint",
+            "AaHcJyD6zBNB4psg7JwoUE3GEkNA9pQnoF1DUzTRZc9j",
+            "--bpf-program",
+            "ESSxYXVy59rtTjPjeN8gDYB883eTKwytgk83z9BBVMq3",
+            "/home/abdullah/solana/anchor-task/spl-token-in-rust/learn_src/target/deploy/mymoneydapp.so",
+        ],
+    }
+[2022-05-31T14:14:47.354735155Z WARN  solana_perf] CUDA is disabled
+[2022-05-31T14:14:47.354750210Z INFO  solana_perf] AVX detected
+[2022-05-31T14:14:47.354753634Z INFO  solana_perf] AVX2 detected
+[2022-05-31T14:14:47.356799104Z ERROR solana_faucet::faucet] Faucet failed to start: Address already in use (os error 98)
+[2022-05-31T14:14:47.356888831Z INFO  solana_metrics::metrics] metrics disabled: SOLANA_METRICS_CONFIG: environment variable not found
